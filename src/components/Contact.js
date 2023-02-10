@@ -21,8 +21,8 @@ function Contact() {
         <div class="phone details">
           <i class="fas fa-phone-alt"></i>
           <div class="topic">Phone</div>
-          <div class="text-one">+91 8083208334</div>
-          <div class="text-two">+91 6307488505</div>
+          <div class="text-one">+91 9123456780</div>
+          <div class="text-two">+91 1234567890</div>
         </div>
         <div class="email details">
           <i class="fas fa-envelope"></i>
